@@ -1,3 +1,4 @@
+<?php session_start() ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -142,7 +143,7 @@
                         class="card-text"
                         style="font-size: 18px; font-weight: bold"
                       >
-                        dsa-java
+                        DSA-Java
                       </h5>
                     </div>
                   </div>
@@ -187,7 +188,7 @@
                 aria-expanded="false"
                 aria-controls="collapseExample"
               >
-                Apna college
+                Apna College
               </button>
             </p>
             <div class="collapse mb-1" id="collapseExample1">
@@ -279,7 +280,7 @@
             aria-expanded="true"
             aria-controls="collapseOne"
           >
-            c Language
+            C Language
           </button>
         </h5>
       </div>

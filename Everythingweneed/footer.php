@@ -28,7 +28,7 @@
     .card {
       padding: 2% 7%;
       color: #646771;
-      background-color: #16151a;
+      background-color: white;
     }
 
     ul {

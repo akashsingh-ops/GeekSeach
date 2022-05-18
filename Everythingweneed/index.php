@@ -1,3 +1,4 @@
+<?php session_start() ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -59,13 +60,13 @@
     <!-- The slideshow/carousel -->
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="images/logo.jpg" alt="Los Angeles" class="d-block" style="width: 100%" />
+        <img src="images/sheetdsa.png" alt="Los Angeles" class="d-block" style="width: 100%" />
       </div>
       <div class="carousel-item">
-        <img src="images/logo.jpg" alt="Chicago" class="d-block" style="width: 100%" />
+        <img src="images/online_courses.png" alt="Chicago" class="d-block" style="width: 100%" />
       </div>
       <div class="carousel-item">
-        <img src="images/logo.jpg" alt="New York" class="d-block" style="width: 100%" />
+        <img src="images/resources.jpg" alt="New York" class="d-block" style="width: 100%" />
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">

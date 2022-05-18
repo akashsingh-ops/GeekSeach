@@ -1,7 +1,7 @@
+<?php session_start() ?>
 <!DOCTYPE html>
 <!-- Created By CodingLab - www.codinglabweb.com -->
 <html lang="en" dir="ltr">
-
 <head>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
@@ -973,17 +973,17 @@
             <div class="header-body  ml-5 p-0  mb-2">
                 <div class=" card1 mt-0 ml-4 pt-0" data-aos="fade-up-right" data-aos-duration="500">
                     <div class="row no-gutters">
-                        <div class=" col-sm-3 text-center ">
+                        <div class="col-sm-4 col-lg-4 text-center ">
                             <img src="images/menwithcomputer.jpg" class="img-fluid" alt="">
                         </div>
-                        <div class="col-sm-11 col-lg-4 ml-5">
+                        <div class="col-sm-4 col-lg-4">
                             <div class="card-block px-2 mt-3">
                                 <h3><strong class="text-info">Why is it important to do skill tests?</strong></h3><br>
                                 <p class="card-text">A skills test is an assessment test used to evaluate the knowledge, skills and abilities of job candidates. These tests are designed to determine if a job applicant has the necessary skills to perform the various aspects
                                     of a job.</p>
                             </div>
                         </div>
-                        <div class="col-sm-11 col-lg-4 ml-5">
+                        <div class="col-sm-4 col-lg-4">
                             <div class="card-block px-2 mt-3">
                                 <h3><strong class="text-info"> Certification as a complement to education</strong></h3>
                                 <p class="card-text">Professional certification is not a replacement for accredited degree work, but instead is supposed to complement your education or professional experience in your field. Once you've earned a certification. certified professionals
